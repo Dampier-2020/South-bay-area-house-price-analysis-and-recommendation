@@ -1,10 +1,10 @@
 # South-bay-area-house-price-analysis-and-recommendation
 
-1.1 Introduction:
+1.1 Introduction
 
 In the past few years, San Francisco south bay area, with antoher name "Silicon Valley", has double digit house price growth rate. With its already expensive housing price, it has topped United States as one of the most expensive regions. On the other side, after dot_com bubble burst in 2000, high tech companies such as Apple, Google, Facebook and etc whose headquarters located in Silicon Valley have immense growth, and created tons of work opportunities, and their high salary and outstanding benefit systems attracted candidates all over the world to swarm into this area, and keep pushing house price higher and higher. 
 
-1.2 Business problem:
+1.2 Business problem
 
 Whether it is still a good time to invest in real estate in Sillico Valley is a valuable and realistic question to answer. A major cause of high housing costs in the Silicon Valley is expansive job growth without adequate housing production. In 2018, close to 36,000 new jobs were created in the area (34% of which were tech jobs); only 8,400 new residential units were issued permits. Imbalanced demand and supply relationship in the housing market suggested potential good investment return from new house construction or remodeling of existed houses. However, as construction permit approval normally takes couple of years. While with background of COVID-19 and emerging working from home, there is uncertainty that whether the economy will continue its trajectory and the eovluation of house supply-demand relationship. Before pouring millions and billions of dollars in house market investment, It is necessary to do detailed analysis and house price prediction to understand whether it is still a good time to invest in South Bay Area housing. In addition, significant house price difference from different cities/ neighborhoods is observed. Which area is most promising for investment also worths a thorugh data analysis. 
 
