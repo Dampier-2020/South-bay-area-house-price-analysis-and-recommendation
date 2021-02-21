@@ -13,4 +13,4 @@ With multiple categorical & numerical variables to play around, the dataset pose
 
 Evaluation Metrics:
 
-RMSE: Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the observed house price will be used to evaluate the model accuracy.
+varience score with training and testing dataset is used to evaluate the modeling accuracy
